@@ -1,4 +1,4 @@
-# Devoir5_CQP112
+# Devoir5_CQP112 - Group project
 
 ## Description:
 
